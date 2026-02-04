@@ -23,3 +23,8 @@
 # ⚙️ Configuração.
 # ⚙️ Configuration.
 <img width="1920" height="1084" alt="0005" src="https://github.com/user-attachments/assets/f3831aee-10f4-4675-bd72-5ea314a837ce" />
+
+#  Observação.
+#  Observation.
+<img width="4000" height="3075" alt="Agrupar 1 (mesclada)" src="https://github.com/user-attachments/assets/5f8b343e-0656-44e6-ad62-51d9164d6cff" />
+
